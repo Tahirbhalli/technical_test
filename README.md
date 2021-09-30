@@ -1,4 +1,4 @@
-# Private Events Project
+# Technical Test
 - This is a Mock Test
 # Important
 - Task 3 endpoint is not authorize with free Api Keys
