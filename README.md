@@ -5,6 +5,7 @@
 # ruby
   ruby 3.0.1p64
 # How to run
+- bundle
 - remove -- in .env API_KEY (otherwise keys will be deprecated) 
 - ruby bin/main.rb
 - rspec
